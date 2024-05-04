@@ -1,0 +1,16 @@
+C:\Users\Melod\source\repos\Cis130 Student\Cis130 Student\Assignments\Assignment02\Event Sales\bin\Debug\netcoreapp3.1\Event Sales.exe
+C:\Users\Melod\source\repos\Cis130 Student\Cis130 Student\Assignments\Assignment02\Event Sales\bin\Debug\netcoreapp3.1\Event Sales.deps.json
+C:\Users\Melod\source\repos\Cis130 Student\Cis130 Student\Assignments\Assignment02\Event Sales\bin\Debug\netcoreapp3.1\Event Sales.runtimeconfig.json
+C:\Users\Melod\source\repos\Cis130 Student\Cis130 Student\Assignments\Assignment02\Event Sales\bin\Debug\netcoreapp3.1\Event Sales.runtimeconfig.dev.json
+C:\Users\Melod\source\repos\Cis130 Student\Cis130 Student\Assignments\Assignment02\Event Sales\bin\Debug\netcoreapp3.1\Event Sales.dll
+C:\Users\Melod\source\repos\Cis130 Student\Cis130 Student\Assignments\Assignment02\Event Sales\bin\Debug\netcoreapp3.1\Event Sales.pdb
+C:\Users\Melod\source\repos\Cis130 Student\Cis130 Student\Assignments\Assignment02\Event Sales\obj\Debug\netcoreapp3.1\Event Sales.csproj.AssemblyReference.cache
+C:\Users\Melod\source\repos\Cis130 Student\Cis130 Student\Assignments\Assignment02\Event Sales\obj\Debug\netcoreapp3.1\Event_Sales.frmSalesEvent.resources
+C:\Users\Melod\source\repos\Cis130 Student\Cis130 Student\Assignments\Assignment02\Event Sales\obj\Debug\netcoreapp3.1\Event Sales.csproj.GenerateResource.cache
+C:\Users\Melod\source\repos\Cis130 Student\Cis130 Student\Assignments\Assignment02\Event Sales\obj\Debug\netcoreapp3.1\Event Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melod\source\repos\Cis130 Student\Cis130 Student\Assignments\Assignment02\Event Sales\obj\Debug\netcoreapp3.1\Event Sales.AssemblyInfoInputs.cache
+C:\Users\Melod\source\repos\Cis130 Student\Cis130 Student\Assignments\Assignment02\Event Sales\obj\Debug\netcoreapp3.1\Event Sales.AssemblyInfo.cs
+C:\Users\Melod\source\repos\Cis130 Student\Cis130 Student\Assignments\Assignment02\Event Sales\obj\Debug\netcoreapp3.1\Event Sales.csproj.CoreCompileInputs.cache
+C:\Users\Melod\source\repos\Cis130 Student\Cis130 Student\Assignments\Assignment02\Event Sales\obj\Debug\netcoreapp3.1\Event Sales.dll
+C:\Users\Melod\source\repos\Cis130 Student\Cis130 Student\Assignments\Assignment02\Event Sales\obj\Debug\netcoreapp3.1\Event Sales.pdb
+C:\Users\Melod\source\repos\Cis130 Student\Cis130 Student\Assignments\Assignment02\Event Sales\obj\Debug\netcoreapp3.1\Event Sales.genruntimeconfig.cache
