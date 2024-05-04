@@ -1,0 +1,16 @@
+C:\Users\Melod\source\repos\Fantasy Wedding Catering (Assignment1 Angela Matta)\bin\Debug\netcoreapp3.1\Fantasy Wedding Catering (Assignment1 Angela Matta).exe
+C:\Users\Melod\source\repos\Fantasy Wedding Catering (Assignment1 Angela Matta)\bin\Debug\netcoreapp3.1\Fantasy Wedding Catering (Assignment1 Angela Matta).deps.json
+C:\Users\Melod\source\repos\Fantasy Wedding Catering (Assignment1 Angela Matta)\bin\Debug\netcoreapp3.1\Fantasy Wedding Catering (Assignment1 Angela Matta).runtimeconfig.json
+C:\Users\Melod\source\repos\Fantasy Wedding Catering (Assignment1 Angela Matta)\bin\Debug\netcoreapp3.1\Fantasy Wedding Catering (Assignment1 Angela Matta).runtimeconfig.dev.json
+C:\Users\Melod\source\repos\Fantasy Wedding Catering (Assignment1 Angela Matta)\bin\Debug\netcoreapp3.1\Fantasy Wedding Catering (Assignment1 Angela Matta).dll
+C:\Users\Melod\source\repos\Fantasy Wedding Catering (Assignment1 Angela Matta)\bin\Debug\netcoreapp3.1\Fantasy Wedding Catering (Assignment1 Angela Matta).pdb
+C:\Users\Melod\source\repos\Fantasy Wedding Catering (Assignment1 Angela Matta)\obj\Debug\netcoreapp3.1\Fantasy Wedding Catering (Assignment1 Angela Matta).csproj.AssemblyReference.cache
+C:\Users\Melod\source\repos\Fantasy Wedding Catering (Assignment1 Angela Matta)\obj\Debug\netcoreapp3.1\Fantasy_Wedding_Catering__Assignment1_Angela_Matta_.frmFantasyWeddingCaterers.resources
+C:\Users\Melod\source\repos\Fantasy Wedding Catering (Assignment1 Angela Matta)\obj\Debug\netcoreapp3.1\Fantasy Wedding Catering (Assignment1 Angela Matta).csproj.GenerateResource.cache
+C:\Users\Melod\source\repos\Fantasy Wedding Catering (Assignment1 Angela Matta)\obj\Debug\netcoreapp3.1\Fantasy Wedding Catering (Assignment1 Angela Matta).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melod\source\repos\Fantasy Wedding Catering (Assignment1 Angela Matta)\obj\Debug\netcoreapp3.1\Fantasy Wedding Catering (Assignment1 Angela Matta).AssemblyInfoInputs.cache
+C:\Users\Melod\source\repos\Fantasy Wedding Catering (Assignment1 Angela Matta)\obj\Debug\netcoreapp3.1\Fantasy Wedding Catering (Assignment1 Angela Matta).AssemblyInfo.cs
+C:\Users\Melod\source\repos\Fantasy Wedding Catering (Assignment1 Angela Matta)\obj\Debug\netcoreapp3.1\Fantasy Wedding Catering (Assignment1 Angela Matta).csproj.CoreCompileInputs.cache
+C:\Users\Melod\source\repos\Fantasy Wedding Catering (Assignment1 Angela Matta)\obj\Debug\netcoreapp3.1\Fantasy Wedding Catering (Assignment1 Angela Matta).dll
+C:\Users\Melod\source\repos\Fantasy Wedding Catering (Assignment1 Angela Matta)\obj\Debug\netcoreapp3.1\Fantasy Wedding Catering (Assignment1 Angela Matta).pdb
+C:\Users\Melod\source\repos\Fantasy Wedding Catering (Assignment1 Angela Matta)\obj\Debug\netcoreapp3.1\Fantasy Wedding Catering (Assignment1 Angela Matta).genruntimeconfig.cache
