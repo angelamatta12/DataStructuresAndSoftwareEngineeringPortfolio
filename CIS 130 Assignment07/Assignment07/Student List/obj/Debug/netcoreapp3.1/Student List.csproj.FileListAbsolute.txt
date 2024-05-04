@@ -1,0 +1,41 @@
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.csprojAssemblyReference.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\obj\Debug\netcoreapp3.1\StudentList.g.cs
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List_Content.g.cs
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List_MarkupCompile.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List_MarkupCompile.lref
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\bin\Debug\netcoreapp3.1\Student List.exe
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\bin\Debug\netcoreapp3.1\Student List.deps.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\bin\Debug\netcoreapp3.1\Student List.runtimeconfig.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\bin\Debug\netcoreapp3.1\Student List.runtimeconfig.dev.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\bin\Debug\netcoreapp3.1\Student List.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\bin\Debug\netcoreapp3.1\Student List.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\obj\Debug\netcoreapp3.1\StudentList.baml
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.g.resources
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.AssemblyInfoInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.AssemblyInfo.cs
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.genruntimeconfig.cache
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\bin\Debug\netcoreapp3.1\Student List.exe
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\bin\Debug\netcoreapp3.1\Student List.deps.json
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\bin\Debug\netcoreapp3.1\Student List.runtimeconfig.json
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\bin\Debug\netcoreapp3.1\Student List.runtimeconfig.dev.json
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\bin\Debug\netcoreapp3.1\Student List.dll
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\bin\Debug\netcoreapp3.1\Student List.pdb
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.csproj.AssemblyReference.cache
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\obj\Debug\netcoreapp3.1\StudentList.g.cs
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List_Content.g.cs
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List_MarkupCompile.cache
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List_MarkupCompile.lref
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\obj\Debug\netcoreapp3.1\StudentList.baml
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.g.resources
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.AssemblyInfoInputs.cache
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.AssemblyInfo.cs
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.csproj.CoreCompileInputs.cache
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.dll
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.pdb
+C:\Users\Melod\source\repos\Assignment07\Assignment07\Student List\obj\Debug\netcoreapp3.1\Student List.genruntimeconfig.cache

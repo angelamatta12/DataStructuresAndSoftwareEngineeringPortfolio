@@ -1,0 +1,8 @@
+﻿JS-44567, John, Smith, 123 Oak Ave., Dearborn, Michigan, 48126
+TG-23311, Theresa, Green, 34592 York Rd, Garden City, Michigan, 48135
+SJ-55901, Steve, Jackson, 34661 Dover Ln, Inkster, Michigan, 48141
+RW-17689, Ryan, Williamson, 12 Argyle Rd, Dearborn, Michigan, 48128
+TW-24876, Tina, Wilkens, 442 Oakwood, Allen Park, Michigan, 48101
+BW-39871, Betty, White, 13345 Greenwood, Detroit, Michigan, 48201
+AW-11456, Allen, Watson, 398 Hoover Rd, Detroit, Michigan, 48202
+WJ-73900, Wendy, Johnson, 455 Ridge, Dearborn Heights, Michigan, 48125

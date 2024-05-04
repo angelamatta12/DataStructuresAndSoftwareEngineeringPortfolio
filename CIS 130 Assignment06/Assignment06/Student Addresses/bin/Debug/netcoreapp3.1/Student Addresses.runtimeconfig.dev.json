@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Melod\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Melod\\.nuget\\packages",
+      "D:\\VSCommunityIDECollegeSharedComponentToolsSDKs\\NuGetPackages",
+      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}

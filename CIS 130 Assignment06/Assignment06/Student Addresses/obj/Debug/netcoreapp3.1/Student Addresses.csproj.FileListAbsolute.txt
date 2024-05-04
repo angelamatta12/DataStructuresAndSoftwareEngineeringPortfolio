@@ -1,0 +1,39 @@
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\bin\Debug\netcoreapp3.1\Student Addresses.exe
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\bin\Debug\netcoreapp3.1\Student Addresses.deps.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\bin\Debug\netcoreapp3.1\Student Addresses.runtimeconfig.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\bin\Debug\netcoreapp3.1\Student Addresses.runtimeconfig.dev.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\bin\Debug\netcoreapp3.1\Student Addresses.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\bin\Debug\netcoreapp3.1\Student Addresses.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.csprojAssemblyReference.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\StudentAddresses.g.cs
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses_MarkupCompile.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses_MarkupCompile.lref
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\StudentAddresses.baml
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.g.resources
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.AssemblyInfoInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.AssemblyInfo.cs
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.genruntimeconfig.cache
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\bin\Debug\netcoreapp3.1\Student Addresses.exe
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\bin\Debug\netcoreapp3.1\Student Addresses.deps.json
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\bin\Debug\netcoreapp3.1\Student Addresses.runtimeconfig.json
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\bin\Debug\netcoreapp3.1\Student Addresses.runtimeconfig.dev.json
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\bin\Debug\netcoreapp3.1\Student Addresses.dll
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\bin\Debug\netcoreapp3.1\Student Addresses.pdb
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.csproj.AssemblyReference.cache
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\StudentAddresses.g.cs
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses_MarkupCompile.cache
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses_MarkupCompile.lref
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\StudentAddresses.baml
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.g.resources
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.AssemblyInfoInputs.cache
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.AssemblyInfo.cs
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.csproj.CoreCompileInputs.cache
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.dll
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.pdb
+C:\Users\Melod\source\repos\Assignment06\Assignment06\Student Addresses\obj\Debug\netcoreapp3.1\Student Addresses.genruntimeconfig.cache

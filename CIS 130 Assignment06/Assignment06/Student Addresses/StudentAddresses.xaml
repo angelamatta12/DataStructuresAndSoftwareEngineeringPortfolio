@@ -1,0 +1,32 @@
+﻿<Window x:Name="wndStudentAddresses" x:Class="Student_Addresses.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Student_Addresses"
+        mc:Ignorable="d"
+        Title="College Students" Height="472" Width="617" FontSize="14">
+    <Grid>
+        <TextBox x:Name="txtStudentID" HorizontalAlignment="Left" Height="37" Margin="334,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="221"/>
+        <Label Content="_Student ID:" HorizontalAlignment="Left" Height="37" Margin="42,59,0,0" VerticalAlignment="Top" Width="250" Target="{Binding ElementName=txtStudentID, Mode=OneWay}"/>
+        <TextBox x:Name="txtFirstName" HorizontalAlignment="Left" Height="37" Margin="334,101,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="221"/>
+        <Label Content="_First name:" HorizontalAlignment="Left" Height="37" Margin="42,101,0,0" VerticalAlignment="Top" Width="250" Target="{Binding ElementName=txtFirstName, Mode=OneWay}"/>
+        <TextBox x:Name="txtLastName" HorizontalAlignment="Left" Height="37" Margin="334,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="221"/>
+        <Label Content="_Last name:" HorizontalAlignment="Left" Height="37" Margin="42,143,0,0" VerticalAlignment="Top" Width="250" Target="{Binding ElementName=txtLastName, Mode=OneWay}"/>
+        <TextBox x:Name="txtAddress" HorizontalAlignment="Left" Height="37" Margin="334,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="221"/>
+        <Label Content="Street _address:" HorizontalAlignment="Left" Height="37" Margin="42,185,0,0" VerticalAlignment="Top" Width="250" Target="{Binding ElementName=txtAddress, Mode=OneWay}"/>
+        <TextBox x:Name="txtCity" HorizontalAlignment="Left" Height="37" Margin="334,227,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="221"/>
+        <Label Content="_City:" HorizontalAlignment="Left" Height="37" Margin="42,227,0,0" VerticalAlignment="Top" Width="250" Target="{Binding ElementName=txtCity, Mode=OneWay}"/>
+        <TextBox x:Name="txtState" HorizontalAlignment="Left" Height="37" Margin="334,269,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="221"/>
+        <Label Content="S_tate:" HorizontalAlignment="Left" Height="37" Margin="42,269,0,0" VerticalAlignment="Top" Width="250" Target="{Binding ElementName=txtState, Mode=OneWay}"/>
+        <TextBox x:Name="txtZipcode" HorizontalAlignment="Left" Height="37" Margin="334,311,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="221"/>
+        <Label Content="_Zipcode:" HorizontalAlignment="Left" Height="37" Margin="42,311,0,0" VerticalAlignment="Top" Width="250" Target="{Binding ElementName=txtZipcode, Mode=OneWay}"/>
+        <Button x:Name="btnAddStudent" Content="Add Student" HorizontalAlignment="Left" Height="39" Margin="266,382,0,0" VerticalAlignment="Top" Width="126" IsDefault="True" Click="btnAddStudent_Click"/>
+        <ToolBar Margin="0,0,0,397">
+            <Button x:Name="btnSave" Content="Save" Click="btnSave_Click"/>
+            <Separator/>
+            <Button x:Name="btnExit" Content="Exit" Click="btnExit_Click"/>
+        </ToolBar>
+
+    </Grid>
+</Window>
