@@ -1,0 +1,35 @@
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\bin\Debug\netcoreapp3.1\Time Card.exe
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\bin\Debug\netcoreapp3.1\Time Card.deps.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\bin\Debug\netcoreapp3.1\Time Card.runtimeconfig.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\bin\Debug\netcoreapp3.1\Time Card.runtimeconfig.dev.json
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\bin\Debug\netcoreapp3.1\Time Card.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\bin\Debug\netcoreapp3.1\Time Card.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.csprojAssemblyReference.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time_Card.frmTimeCard.resources
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.csproj.GenerateResource.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.AssemblyInfoInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.AssemblyInfo.cs
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.csproj.CoreCompileInputs.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.dll
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.pdb
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.genruntimeconfig.cache
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time_Card.frmViewAllEmployees.resources
+C:\Users\ajcon\OneDrive - Henry Ford College\Data\HFC Classes\Cis 130\Cis 130 C# NetCore\Student Asssignments\Fall 2021\Projects-Start\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time_Card.frmErrorMessages.resources
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\bin\Debug\netcoreapp3.1\Time Card.exe
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\bin\Debug\netcoreapp3.1\Time Card.deps.json
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\bin\Debug\netcoreapp3.1\Time Card.runtimeconfig.json
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\bin\Debug\netcoreapp3.1\Time Card.runtimeconfig.dev.json
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\bin\Debug\netcoreapp3.1\Time Card.dll
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\bin\Debug\netcoreapp3.1\Time Card.pdb
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.csproj.AssemblyReference.cache
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time_Card.frmTimeCard.resources
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time_Card.frmViewAllEmployees.resources
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time_Card.frmErrorMessages.resources
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.csproj.GenerateResource.cache
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.AssemblyInfoInputs.cache
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.AssemblyInfo.cs
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.csproj.CoreCompileInputs.cache
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.dll
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.pdb
+C:\Users\Melod\source\repos\Cis130 Student\Assignment04\Assignment04\Time Card\obj\Debug\netcoreapp3.1\Time Card.genruntimeconfig.cache

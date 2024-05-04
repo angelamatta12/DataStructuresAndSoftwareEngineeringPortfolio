@@ -1,0 +1,19 @@
+﻿<Window x:Name="wndPigLatin" x:Class="Pig_Latin_Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pig_Latin_Project"
+        mc:Ignorable="d"
+        Title="Pig Latin" Height="543" Width="1000" WindowStyle="ThreeDBorderWindow">
+    <Grid Margin="0,0,0,3" ScrollViewer.VerticalScrollBarVisibility="Disabled">
+        <TextBox x:Name="txtSentence" HorizontalAlignment="Center" Height="51" Margin="0,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="890" HorizontalContentAlignment="Left" FontSize="16"/>
+
+
+        <Button x:Name="btnConvert" Content="_Convert" HorizontalAlignment="Left" Height="39" Margin="386,100,0,0" VerticalAlignment="Top" Width="120" />
+        <Label x:Name="lblPigLatinResults" Content="" HorizontalAlignment="Center" Height="304" Margin="0,155,0,0" VerticalAlignment="Top" Width="890" BorderBrush="Black" BorderThickness="2,2,2,2" ScrollViewer.CanContentScroll="True"/>
+        <Button x:Name="btnClear" Content="Clear _Results" HorizontalAlignment="Left" Height="39" Margin="523,100,0,0" VerticalAlignment="Top" Width="120" />
+        <Label Content="Pig Latin sentence:" HorizontalAlignment="Left" Height="29" Margin="55,10,0,0" VerticalAlignment="Top" Width="129" FontSize="14"/>
+
+    </Grid>
+</Window>
