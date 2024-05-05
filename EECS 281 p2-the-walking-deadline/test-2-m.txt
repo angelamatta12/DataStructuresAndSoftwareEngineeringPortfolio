@@ -1,0 +1,21 @@
+# sample 2, doesn't start at round 1, therefore printing for median shouldnt start until round 5 and could possibly have a problem with testing whether or not the win 
+# win condition/lose condition was actually found 
+# could possibly read input in incorrectly, not getting the correct numbers or something if it does not account for comments 
+# also distance could be 0 to start with for the max so needs to get the right distance/zombie it lost to 
+quiver-capacity: 50
+random-seed: 2049231
+max-rand-distance: 0
+max-rand-speed: 60
+max-rand-health: 1
+---
+round: 5
+random-zombies: 6
+named-zombies: 3
+MarkSchlissel distance: 150 speed: 300 health: 15
+MarySueColeman distance: 2 speed: 3 health: 6
+LeeBollinger distance: 100 speed: 1 health: 100
+---
+round: 8
+random-zombies: 10
+named-zombies: 1
+JamesDuderstadt distance: 20 speed: 10 health: 20

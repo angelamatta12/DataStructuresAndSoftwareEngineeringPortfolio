@@ -1,0 +1,20 @@
+# sample 2, doesn't start at round 1, therefore printing for verbose shouldnt start until round 5 for created/destroyed/moved
+# win condition/lose condition was actually found 
+# could possibly read input in incorrectly, not getting the correct numbers or something if it does not account for comments 
+quiver-capacity: 50
+random-seed: 2049231
+max-rand-distance: 100
+max-rand-speed: 60
+max-rand-health: 1
+---
+round: 5
+random-zombies: 21
+named-zombies: 3
+MarkSchlissel distance: 150 speed: 300 health: 15
+MarySueColeman distance: 2 speed: 3 health: 6
+LeeBollinger distance: 100 speed: 1 health: 100
+---
+round: 8
+random-zombies: 25
+named-zombies: 1
+JamesDuderstadt distance: 20 speed: 10 health: 20

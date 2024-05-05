@@ -1,0 +1,12 @@
+
+  zombie &zombie::operator=(const zombie &rhs)
+    {
+        name = rhs.name;
+        distance = rhs.distance;
+        speed = rhs.speed;
+        health = rhs.health;
+        roundGen = rhs.roundGen;
+        roundLasted = rhs.roundLasted;
+        dead = rhs.dead;
+        return *this;
+    }
