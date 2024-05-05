@@ -1,0 +1,59 @@
+/ MST extras needed section
+struct Edge
+{
+    double edgeWeight;
+    std::pair<std::pair<int32_t, int32_t>, std::pair<int32_t, int32_t>> endpoints;
+    bool operator<(const Edge &rhs)
+    {
+        return edgeWeight < rhs.edgeWeight;
+    }
+};
+
+// union find container section for Kruskal's
+class UnionFind
+{
+    // may use unordered map/set instead
+    //new question: will this cause issues ie. missing pairs due to not allowing multiple dupe keys 
+    std::unordered_map<std::pair<int32_t, int32_t>, std::pair<int32_t, int32_t>> reps;
+
+public:
+    // start with all the coordinates representing themselves
+    UnionFind(int32_t size, std::vector<std::pair<int32_t, int32_t>> coord)
+    {
+        reps.reserve(size);
+        for (int32_t i = 0; i < size; ++i)
+        {
+            // at the beginning, every node represents itself
+            reps[coord[i]] = (coord[i]);
+        } // for i
+    }     // UnionFind()
+
+    // find set, searches for the ultimate representative of the endPt aka it's partner that it makes the edge with
+    std::pair<int32_t, int32_t> find_set(std::pair<int32_t, int32_t> endPt)
+    {
+        // need to check if it exists in the map first !!
+        //also this maybe the portion that checks to make sure that no unions occur between wild->safe w/o wall 
+
+        if (endPt == reps[endPt])
+        {
+            return endPt;
+        } // if
+        reps[endPt] = find_set(reps[endPt]);
+        return reps[endPt];
+    } // find_set()
+
+    // union_set() unions the elements endPt1 and endPt2 into the same set
+    void union_set(std::pair<int32_t, int32_t> endPt1, std::pair<int32_t, int32_t> endPt2)
+    {
+        std::pair<int32_t, int32_t> endPt1Rep = find_set(endPt1);
+        std::pair<int32_t, int32_t> endPt2Rep = find_set(endPt2);
+        // figure out what container to use... would an unordered map/set be useful here....
+        reps[endPt2Rep] = endPt1Rep;
+    } // union_set()
+
+    UnionFind(int32_t size, std::vector<std::pair<int32_t, int32_t>> coord);
+    std::pair<int32_t, int32_t> find_set(std::pair<int32_t, int32_t> x);
+    void union_set(std::pair<int32_t, int32_t> endPt1, std::pair<int32_t, int32_t> endPt2);
+};
+
+

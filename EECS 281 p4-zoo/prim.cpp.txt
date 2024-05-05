@@ -1,0 +1,89 @@
+#include <vector>
+#include <numeric>
+struct Prim
+{
+    double edgeWeight;
+    int32_t endPtPartner;
+    bool isMST;
+    Prim()
+        : edgeWeight{std::numeric_limits<double>::infinity()}, endPtPartner{-1}, isMST{false} {}
+};
+
+int smallestVertex(std::vector<Prim> &primMST)
+{
+    // Initialize min value
+    int minWeight = INT_MAX, smallestVertex;
+
+    for (int vertex = 0; vertex < primMST.size(); vertex++)
+        if (!primMST[vertex].isMST && primMST[vertex].edgeWeight < minWeight)
+            minWeight = primMST[vertex].edgeWeight, smallestVertex = vertex;
+
+    return smallestVertex;
+}
+
+std::vector<Prim> primMST(size_t start, bool flagPTA, const std::vector<std::pair<int32_t, int32_t>> &coord, int32_t numberOfEdgesMax)
+{
+    // 2 initialize Prim table (which stores k, d, and p for each vertex v)
+    std::vector<Prim> primMST(coord.size());
+    std::iota(primMST.begin(), primMST.end(), Prim());
+    // 3 set d of starting vertex to 0
+    primMST[start].edgeWeight = 0;
+
+    // 4 for each vertex v in graph:
+    int indexSmallestVertex;
+
+    for (int i = 0; i < primMST.size(); i++)
+    {
+
+        // 5 find vertex v_min with smallest d value among vertices whose k is false
+        indexSmallestVertex = smallestVertex(primMST);
+        // 6 set k of vertex v_min to true
+        primMST[indexSmallestVertex].isMST = true;
+
+        // 7 for each neighbor n of vertex v_min in graph:
+        for (int adjacentVertex = 0; adjacentVertex < coord.size(); adjacentVertex++)
+
+            // graph[u][v] is non zero only for adjacent
+            // vertices of m mstSet[v] is false for vertices
+            // not yet included in MST Update the key only
+            // if graph[u][v] is smaller than key[v]
+            if(adjacentVertex==indexSmallestVertex){
+                continue;
+            }
+
+             if (flagPTA)
+            {
+                // check to make sure that no wild-> safe pair here
+
+                // neighbor is wild and endPtPartner is safe
+                if (coord[static_cast<size_t>(indexSmallestVertex)].first < 0 && coord[static_cast<size_t>(indexSmallestVertex)].second < 0 &&
+                    ((coord[static_cast<size_t>(adjacentVertex)].first > 0 && coord[static_cast<size_t>(adjacentVertex)].second > 0) ||
+                     (coord[static_cast<size_t>(adjacentVertex)].first > 0 && coord[static_cast<size_t>(adjacentVertex)].second < 0) ||
+                     (coord[static_cast<size_t>(adjacentVertex)].first < 0 && coord[static_cast<size_t>(adjacentVertex)].second > 0)))
+                {
+                    continue;
+                }
+                // neighbor is safe and endPtPartner is wild
+                if (coord[static_cast<size_t>(adjacentVertex)].first < 0 && coord[static_cast<size_t>(adjacentVertex)].second < 0 &&
+                    ((coord[static_cast<size_t>(indexSmallestVertex)].first > 0 && coord[static_cast<size_t>(indexSmallestVertex)].second > 0) ||
+                     (coord[static_cast<size_t>(indexSmallestVertex)].first > 0 && coord[static_cast<size_t>(indexSmallestVertex)].second < 0) ||
+                     (coord[static_cast<size_t>(indexSmallestVertex)].first < 0 && coord[static_cast<size_t>(indexSmallestVertex)].second > 0)))
+                {
+                    continue;
+                }
+            }
+
+
+            // 8 if k of vertex n is false and edge weight between n and v_min < d of n:
+            // 9 set d of vertex n to weight of edge between n and v_min
+            // 10 set p of vertex n to index of v_min
+            double minDist = calcDist(indexSmallestVertex, adjacentVertex, coord);
+
+        if (!primMST[adjacentVertex].isMST && minDist < primMST[adjacentVertex].edgeWeight)
+        {
+            primMST[adjacentVertex].endPtPartner = indexSmallestVertex, primMST[adjacentVertex].edgeWeight = minDist;
+        }
+    }
+
+    return primMST;
+} // prim_heap()

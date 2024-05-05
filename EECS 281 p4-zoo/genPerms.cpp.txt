@@ -1,0 +1,118 @@
+template <typename T>
+bool promising(std::vector<T> &path, size_t perm_length, double &upperBound, std::vector<std::pair<int32_t, int32_t>> &coord)
+{
+//implement running sum 
+
+  if (path.size() - perm_length < 5)
+  {
+    return true;
+  } // if
+
+  // estimate lower bound and compare with upper bound
+
+  double estimate;
+
+  // In summary, to obtain a lower bound for the TSP problem, you can sum of the following four weights:
+  // 1. The cost of the current partial solution aka calculate the overall weight of graph
+
+  for (int i = 0; i < perm_length - 1; i++)
+  {
+    estimate += calcDist(path[i], path[i + 1], coord);
+  }
+ 
+  // 2. The cost of the MST connecting the remaining points not in the partial solution, aka pass in a vector with the same amount of space as the number of nodes left to MST algorithm
+  // then calculate the total weight of the graph
+
+  // make sure correct starting point!!
+  std::vector MSTsubsetCoord(coord.begin() + perm_length, coord.end());
+  std::vector<Prim> MSTEdges = primMST(0, false, MSTsubsetCoord);
+
+  for (int i = 1; i < MSTEdges.size(); i++)
+  {
+    estimate += MSTEdges[i].edgeWeight;
+  }
+
+  // grab the first node in the partial solution, calculate its dist from all points in the MST, put in min PQ, grab top
+  // 3. The cost of connecting one end of the partial solution with its closest point in the MST.
+
+  double minWeightFirst = std::numeric_limits<double>::infinity();
+  double minWeightLast = std::numeric_limits<double>::infinity();
+
+  for (int i = 0; i < MSTsubsetCoord.size(); i++)
+  {
+    double weight = calcDist(path[0], i, coord);
+    if (weight < minWeightFirst)
+    {
+      minWeightFirst = weight;
+    }
+  }
+
+  // grab the last node in the partial solution, calculate its dist from all points in the MST, put in min PQ, grab top
+  //  4. The cost of connecting the other end of the partial solution with its closest point in the MST
+
+  for (int i = 0; i < MSTsubsetCoord.size(); i++)
+  {
+    double weight = calcDist(path[(perm_length - 1)], i, coord);
+    if (weight < minWeightLast)
+    {
+      minWeightLast = weight;
+    }
+  }
+
+  estimate += (minWeightLast + minWeightFirst);
+
+  // add all these together if < upper then continue aka return true
+
+  // other wise return false
+
+  return estimate < upperBound;
+
+} // promising()
+
+// pass in the current partial solution  length and the current partial solution
+void genPerms(std::vector<T> &path, size_t permLength, double &upperBound, std::vector<std::pair<int32_t, int32_t>> &coord)
+{
+  if (permLength == path.size())
+  {
+    // Do something with the path
+    // Base case, this gets hit if you fully explore a path without ever pruning it.
+    // This means the path currently stored in the vector may be an optimal solution,
+    // does comparing solely mean the total weight??
+    // so compare it with the best solution known so far and update the upper bound if needed.
+
+    // calc the upper bound of the solution, compare the value to the current upper bound
+    // if > then it is not the best/optimal solution since we are trying to find a min weight overall for the distance
+    // if < then its one possible best/optimal solution, update current saved path for solution printing and update current upper bound
+    // updating current path is not necessary, just ensure that upper bound gets updated
+
+    double totalWeight;
+    for (int i = 0; i < path.size() - 1; i++)
+    {
+      // note need to see if this actually works...
+      totalWeight += calcDist(path[i], path[i + 1], coord);
+    }
+    //TODO
+    // note: do we need to add the edge length for the edge between the first and last node????
+    totalWeight += calcDist(path[0], path[path.size() - 1], coord);
+
+    if (totalWeight < upperBound)
+    {
+      upperBound = totalWeight;
+    }
+
+    return;
+  } // if ..complete path
+
+  if (!promising(path, permLength, upperBound, coord))
+  {
+    return;
+  } // if ..not promising
+
+  for (size_t i = permLength; i < path.size(); ++i)
+  {
+    swap(path[permLength], path[i]);
+    genPerms(path, permLength + 1, upperBound, coord);
+    swap(path[permLength], path[i]);
+  } // for ..unpermuted elements
+
+}; // genPerms()

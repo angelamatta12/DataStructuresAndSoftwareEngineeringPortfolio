@@ -1,0 +1,65 @@
+
+struct Prim
+{
+    double edgeWeight;
+    int32_t endPtPartner;
+    bool isMST;
+    Prim()
+        : edgeWeight{std::numeric_limits<double>::infinity()}, endPtPartner{-1}, isMST{false} {}
+};
+
+using edgeWeightPair = std::pair<double, int32_t>;
+
+std::vector<Prim> primMST(size_t start, bool flagPTA,const std::vector<std::pair<int32_t, int32_t>> &coord, int32_t numberOfEdgesMax)
+{
+    std::vector<Prim> primMST(coord.size());
+    std::priority_queue<edgeWeightPair, std::vector<edgeWeightPair>, std::greater<edgeWeightPair>> pqEdgeWeight;
+    primMST[start].edgeWeight = 0;
+    pqEdgeWeight.emplace(primMST[start].edgeWeight, start);
+    while (!pqEdgeWeight.empty())
+    {
+
+        if (static_cast<int32_t>(primMST.size()) == numberOfEdgesMax)
+        {
+            break;
+        }
+
+        int32_t endPtPartner = pqEdgeWeight.top().second;
+        pqEdgeWeight.pop();
+        primMST[static_cast<size_t>(endPtPartner)].isMST = true;
+        for (size_t i = start + 1; i < coord.size(); i++)
+        {
+            double dist = calcDist(endPtPartner, static_cast<int>(i), coord);
+
+            if (flagPTA)
+            {
+                // check to make sure that no wild-> safe pair here
+
+                // neighbor is wild and endPtPartner is safe
+                if (coord[static_cast<size_t>(i)].first < 0 && coord[static_cast<size_t>(i)].second < 0 &&
+                    ((coord[static_cast<size_t>(endPtPartner)].first > 0 && coord[static_cast<size_t>(endPtPartner)].second > 0) ||
+                     (coord[static_cast<size_t>(endPtPartner)].first > 0 && coord[static_cast<size_t>(endPtPartner)].second < 0) ||
+                     (coord[static_cast<size_t>(endPtPartner)].first < 0 && coord[static_cast<size_t>(endPtPartner)].second > 0)))
+                {
+                    continue;
+                }
+                // neighbor is safe and endPtPartner is wild
+                if (coord[static_cast<size_t>(endPtPartner)].first < 0 && coord[static_cast<size_t>(endPtPartner)].second < 0 &&
+                    ((coord[static_cast<size_t>(i)].first > 0 && coord[static_cast<size_t>(i)].second > 0) ||
+                     (coord[static_cast<size_t>(i)].first > 0 && coord[static_cast<size_t>(i)].second < 0) ||
+                     (coord[static_cast<size_t>(i)].first < 0 && coord[static_cast<size_t>(i)].second > 0)))
+                {
+                    continue;
+                }
+            }
+
+            if (!primMST[static_cast<size_t>(i)].isMST && dist < primMST[static_cast<size_t>(i)].edgeWeight)
+            {
+                primMST[static_cast<size_t>(i)].edgeWeight = dist;
+                primMST[static_cast<size_t>(i)].endPtPartner = endPtPartner;
+                pqEdgeWeight.emplace(dist, i);
+            } // if
+        }
+    } // while
+    return primMST;
+} // prim_heap()
