@@ -1,0 +1,16 @@
+100000010000000000000111
+100010100000000000000011
+10100000000000000001
+1000000010000000000000010
+1000000001111111111111101
+
+
+
+multiplying decimal numbers in binary 
+
+multiply by either 1 or 0, either add to running total or not 
+
+perform one shift by adding a value to itself 
+
+dear lord... ask amara.. is not actually a clear explanation in lab . 
+
