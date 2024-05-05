@@ -1,0 +1,50 @@
+  case ADD:
+        case NOR:
+
+            // default, check regA for all
+            // in the registers that come after it 
+            //check if the pipeline registers that come after what is in IDEX alter what is in IDEX
+            
+                //check reg A 
+                if (field0(state.IDEX.instr) == field2(state.EXMEM.instr))
+                {
+                    newState.IDEX.valA = state.EXMEM.aluResult;
+                }
+
+                // check memwb
+                else if (state.IDEX.instr == state.MEMWB.instr)
+                {
+                    newState.IDEX.valA =  state.MEMWB.writeData;
+                }
+
+                // check wbend
+                else if (state.IDEX.instr == state.WBEND.instr)
+                {
+                    newState.IDEX.valA = state.MEMWB.writeData;
+                }
+            
+
+            // check regB if the next instr. is not a lw, lw is the only instr that doesnt use reg B as a src
+             if (opcode(state.IFID.instr) != LW && (field2(state.IDEX.instr)) == field1(state.IFID.instr))
+            {
+
+                  // check exemem
+                if (state.IDEX.instr == state.EXMEM.instr)
+                {
+                    newState.IDEX.valB = state.EXMEM.aluResult;
+                }
+
+                // check memwb
+                else if (state.IDEX.instr == state.MEMWB.instr)
+                {
+                    newState.IDEX.valB =  state.MEMWB.writeData;
+                }
+
+                // check wbend
+                else if (state.IDEX.instr == state.WBEND.instr)
+                {
+                    newState.IDEX.valB = state.MEMWB.writeData;
+                }
+            }
+
+            break;
