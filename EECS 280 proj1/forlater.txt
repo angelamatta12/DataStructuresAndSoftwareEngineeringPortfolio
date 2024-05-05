@@ -1,0 +1,185 @@
+
+//count test
+
+//void testCount(){
+
+//vector<double> vect1;
+
+//vect1.push_back(3);
+//vect1.push_back(2);
+//vect1.push_back(1);
+//vect1.push_back(4);
+//vect1.push_back(2);
+//vect1.push_back(3);
+//vect1.push_back(1);
+//vect1.push_back(2);
+
+
+
+//assert(count(vect1) == 8);
+
+
+
+//}
+
+
+//mean test
+
+// void testMean(){
+
+// vector<double> vect1;
+
+// vect1.push_back(3);
+// vect1.push_back(2);
+// vect1.push_back(1);
+// vect1.push_back(4);
+// vect1.push_back(2);
+// vect1.push_back(3);
+// vect1.push_back(1);
+// vect1.push_back(2);
+
+
+
+// //assert(mean(vect1) == 2.25);
+
+
+
+
+
+// }
+
+// //median test
+
+// void testMedian(){
+
+
+// vector<double> vect1;
+
+// vect1.push_back(3);
+// vect1.push_back(2);
+// vect1.push_back(1);
+// vect1.push_back(4);
+// vect1.push_back(2);
+// vect1.push_back(3);
+// vect1.push_back(1);
+// vect1.push_back(2);
+
+
+
+// ///assert(median(vect1) == 2);
+
+
+// }
+
+
+// //mode test
+// void testMode(){
+
+
+
+
+// vector<double> vect1;
+
+// vect1.push_back(3);
+// vect1.push_back(2);
+// vect1.push_back(1);
+// vect1.push_back(4);
+// vect1.push_back(2);
+// vect1.push_back(3);
+// vect1.push_back(1);
+// vect1.push_back(2);
+
+
+
+// //assert(mode(vect1) == 2);
+
+
+
+// }
+
+// //min test
+// void testMin(){
+
+
+
+// vector<double> vect1;
+
+// vect1.push_back(3);
+// vect1.push_back(2);
+// vect1.push_back(1);
+// vect1.push_back(4);
+// vect1.push_back(2);
+// vect1.push_back(3);
+// vect1.push_back(1);
+// vect1.push_back(2);
+
+
+
+// //assert(min(vect1) == 1);
+
+
+
+// }
+
+// // max test
+// void testMax(){
+
+
+
+// vector<double> vect1;
+
+// vect1.push_back(3);
+// vect1.push_back(2);
+// vect1.push_back(1);
+// vect1.push_back(4);
+// vect1.push_back(2);
+// vect1.push_back(3);
+// vect1.push_back(1);
+// vect1.push_back(2);
+
+
+
+// //assert(max(vect1) == 4);
+
+
+
+
+// }
+
+// //stdev test
+// void testStd(){
+
+// const double epsilon = 0.00001;
+
+// vector<double> vect1;
+
+// vect1.push_back(3);
+// vect1.push_back(2);
+// vect1.push_back(1);
+// vect1.push_back(4);
+// vect1.push_back(2);
+// vect1.push_back(3);
+// vect1.push_back(1);
+// vect1.push_back(2);
+
+// cout.precision(numeric_limits<double>::max_digits10);
+
+//  if (abs(stdev(vect1) - 0.96824583655185) < epsilon) {
+//     cout << "equal" << endl;
+//   } else {
+//     cout << "not equal" << endl;
+//   }
+
+
+// }
+
+
+// //percentile test
+// void testPercent(){}
+
+
+
+
+
+
+

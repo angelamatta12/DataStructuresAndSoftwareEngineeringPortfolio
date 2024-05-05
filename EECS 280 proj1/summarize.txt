@@ -1,0 +1,42 @@
+
+// //grab value
+ for(int i = 0; i < v.size(); i++){ 
+
+// //initialize count everytime to 0  
+
+
+int count = 0;
+// //check if value exists in values vector 
+
+// //not in values vector, then add it to vector 
+ if( find(value.begin(), value.end(), v[i]) == value.end() ){
+
+
+// //add it to vector 
+
+value.push_back(v[i]);
+
+// //loop to count
+for(int j = 0; j < v.size(); j++ ){
+
+
+
+if(v[i] == v[j]){
+
+count++;
+
+}
+
+ }
+
+// //add count to frequency vector 
+
+frequency.push_back(count);
+
+
+//end of if statement
+ }
+
+ //end of outer loop 
+
+ }
