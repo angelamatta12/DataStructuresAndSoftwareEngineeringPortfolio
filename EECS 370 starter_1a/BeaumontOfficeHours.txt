@@ -1,0 +1,39 @@
+bitwise ops for translating cmds
+
+combining all binary pieces into one line 
+
+1. shift a by << n(number of spaces needed to be shifted over left) to make room for the other binary number 
+2. use bitwise or to combine a and b 
+3. repeat 
+
+
+question: data rep of the binary to be shifted ??? 
+int apparently, for n tick define like the max length 
+
+
+atoi to convert for registers 
+just set a variable to decimal number for opcode value 
+
+2's compliment 
+
+positive version of binary 
+then flip it aka all 0->1 1->0
+then plus 1 
+
+
+no need to implement 2's compliment 
+
+need to use bitmasking to get the 16 bits max needed though for the 2's compliment!! 
+
+zero out the not needed stuff
+
+use a bitwise and on the ones you want to keep,  just all ones at the end 
+
+declare the max number of 16 bits, then perform a bitwise and between the offset and the max 
+
+note about the max: rep it as a hex number , just in, dont forget the 0x, 0b is for binary 
+
+
+
+
+
