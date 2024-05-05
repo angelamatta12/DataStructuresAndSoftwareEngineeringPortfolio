@@ -1,0 +1,16 @@
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 01 Sales List\bin\Debug\netcoreapp3.1\Lab 01 Sales List.exe
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 01 Sales List\bin\Debug\netcoreapp3.1\Lab 01 Sales List.deps.json
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 01 Sales List\bin\Debug\netcoreapp3.1\Lab 01 Sales List.runtimeconfig.json
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 01 Sales List\bin\Debug\netcoreapp3.1\Lab 01 Sales List.runtimeconfig.dev.json
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 01 Sales List\bin\Debug\netcoreapp3.1\Lab 01 Sales List.dll
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 01 Sales List\bin\Debug\netcoreapp3.1\Lab 01 Sales List.pdb
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 01 Sales List\obj\Debug\netcoreapp3.1\Lab 01 Sales List.csproj.AssemblyReference.cache
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 01 Sales List\obj\Debug\netcoreapp3.1\Lab_01_Sales_List.frmSales.resources
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 01 Sales List\obj\Debug\netcoreapp3.1\Lab 01 Sales List.csproj.GenerateResource.cache
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 01 Sales List\obj\Debug\netcoreapp3.1\Lab 01 Sales List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 01 Sales List\obj\Debug\netcoreapp3.1\Lab 01 Sales List.AssemblyInfoInputs.cache
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 01 Sales List\obj\Debug\netcoreapp3.1\Lab 01 Sales List.AssemblyInfo.cs
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 01 Sales List\obj\Debug\netcoreapp3.1\Lab 01 Sales List.csproj.CoreCompileInputs.cache
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 01 Sales List\obj\Debug\netcoreapp3.1\Lab 01 Sales List.dll
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 01 Sales List\obj\Debug\netcoreapp3.1\Lab 01 Sales List.pdb
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 01 Sales List\obj\Debug\netcoreapp3.1\Lab 01 Sales List.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 02 Product Code\bin\Debug\netcoreapp3.1\Lab 02 Product Code.exe
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 02 Product Code\bin\Debug\netcoreapp3.1\Lab 02 Product Code.deps.json
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 02 Product Code\bin\Debug\netcoreapp3.1\Lab 02 Product Code.runtimeconfig.json
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 02 Product Code\bin\Debug\netcoreapp3.1\Lab 02 Product Code.runtimeconfig.dev.json
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 02 Product Code\bin\Debug\netcoreapp3.1\Lab 02 Product Code.dll
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 02 Product Code\bin\Debug\netcoreapp3.1\Lab 02 Product Code.pdb
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 02 Product Code\obj\Debug\netcoreapp3.1\Lab 02 Product Code.csproj.AssemblyReference.cache
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 02 Product Code\obj\Debug\netcoreapp3.1\Lab_02_Product_Code.frmProductCodes.resources
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 02 Product Code\obj\Debug\netcoreapp3.1\Lab 02 Product Code.csproj.GenerateResource.cache
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 02 Product Code\obj\Debug\netcoreapp3.1\Lab 02 Product Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 02 Product Code\obj\Debug\netcoreapp3.1\Lab 02 Product Code.AssemblyInfoInputs.cache
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 02 Product Code\obj\Debug\netcoreapp3.1\Lab 02 Product Code.AssemblyInfo.cs
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 02 Product Code\obj\Debug\netcoreapp3.1\Lab 02 Product Code.csproj.CoreCompileInputs.cache
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 02 Product Code\obj\Debug\netcoreapp3.1\Lab 02 Product Code.dll
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 02 Product Code\obj\Debug\netcoreapp3.1\Lab 02 Product Code.pdb
+C:\Users\Melod\source\repos\Test02-Projects\Test02-Projects\Lab 02 Product Code\obj\Debug\netcoreapp3.1\Lab 02 Product Code.genruntimeconfig.cache
